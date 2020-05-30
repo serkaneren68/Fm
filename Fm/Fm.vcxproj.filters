@@ -36,9 +36,4 @@
       <Filter>Üst Bilgi Dosyaları</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Media Include="..\..\..\..\Downloads\test1.wav">
-      <Filter>Kaynak Dosyalar</Filter>
-    </Media>
-  </ItemGroup>
 </Project>
